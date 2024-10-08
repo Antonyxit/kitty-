@@ -21,7 +21,7 @@
             "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ℹ️ ] Esta función está desactivada debido a que la función* _restrict_ *está habilitada.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ]Para contrat el bot comunícate al siguiente número+52 8442325550.*"
+            "texto1": "_*< ANTI-PRIVADO />*_\n\n*[ ℹ️ ]esta prohibido hablar al numero del bot por lo que seras bloqueado*"
         },
         "_antitoxic": {
             "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ℹ️ ] ",
@@ -2340,7 +2340,7 @@
         "gc_tagall": {
             "texto1": [
                 "*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:*",
-                "*⺀DESPIERTA TE HABLA 𝐀𝐋𝐄 BOT⺀*\n\n❏",
+                "*⺀DESPIERTA TE HABLA 𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥 BOT⺀*\n\n❏",
                 "❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*"
             ]
         },
@@ -2826,7 +2826,7 @@
         },
         "menu_menu": {
             "texto1": [
-                "𝐀𝐋𝐄",
+                "𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥",
                 "▢ *Hola,*",
                 "_*< TUS ESTADÍSTICAS />*_",
                 "▢ *Nivel:* ",
