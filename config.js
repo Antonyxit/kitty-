@@ -14,27 +14,27 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5216442323706', 'KeroppiBot', true],
+  ['5219881901824', 'KeroppiBot', true],
   ['5214461281232', 'Colaborador', true],
-  ['5216442323706', 'AntonyxT', true],
+  ['5219881901824', 'AntonyxT', true],
 ];
 
-global.suittag = ['5216442323706'];
-global.prems = ['5216442323706'];
+global.suittag = ['5219881901824'];
+global.prems = ['5219881901824'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
-global.author = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
-global.wm = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
+global.packname = '𝐊𝐈𝐓𝐓𝐘';
+global.author = '𝐊𝐈𝐓𝐓𝐘';
+global.wm = '𝐊𝐈𝐓𝐓𝐘';
 global.idioma = 'es';
 global.ig = '';
-global.etiqueta = 'ACTIVENSE 𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀 BOT LES HABLA';
+global.etiqueta = 'ACTIVENSE 𝐊𝐈𝐓𝐓𝐘 BOT LES HABLA';
 global.emojietiqueta = '💗';
-global.titulowm = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
-global.titulowm2 = `𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀`
-global.igfg = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
+global.titulowm = '𝐊𝐈𝐓𝐓𝐘';
+global.titulowm2 = `𝐊𝐈𝐓𝐓𝐘`
+global.igfg = '𝐊𝐈𝐓𝐓𝐘';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀`;
-global.gt = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
-global.mysticbot = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
-global.channel = '';
-global.md = '';
-global.mysticbot = '';
+global.wm2 = `${dia} ${fecha}\n𝐊𝐈𝐓𝐓𝐘`;
+global.gt = '𝐊𝐈𝐓𝐓𝐘';
+global.mysticbot = '𝐊𝐈𝐓𝐓𝐘';
+global.channel = 'https://chat.whatsapp.com/DUWPOcBaLvlIUcGysPiYhb';
+global.md = 'https://chat.whatsapp.com/DUWPOcBaLvlIUcGysPiYhb';
+global.mysticbot = 'https://chat.whatsapp.com/DUWPOcBaLvlIUcGysPiYhb';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
