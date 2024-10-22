@@ -14,27 +14,27 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5214461281232', 'KeroppiBot', true],
-  ['12154971254', 'Colaborador', true],
-  ['12154971254', 'AntonyxT', true],
+  ['5216442323706', 'KeroppiBot', true],
+  ['5214461281232', 'Colaborador', true],
+  ['5216442323706', 'AntonyxT', true],
 ];
 
-global.suittag = ['12154971254'];
-global.prems = ['12154971254'];
+global.suittag = ['5216442323706'];
+global.prems = ['5216442323706'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥';
-global.author = '𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥';
-global.wm = '𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥';
+global.packname = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
+global.author = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
+global.wm = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
 global.idioma = 'es';
 global.ig = '';
-global.etiqueta = 'ACTIVENSE 𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥 BOT LES HABLA';
-global.emojietiqueta = '🍀';
-global.titulowm = '𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥';
-global.titulowm2 = `𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥`
-global.igfg = '𝐀𝐋𝐄';
+global.etiqueta = 'ACTIVENSE 𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀 BOT LES HABLA';
+global.emojietiqueta = '💗';
+global.titulowm = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
+global.titulowm2 = `𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀`
+global.igfg = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,9 +54,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥`;
-global.gt = '𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥';
-global.mysticbot = '𝐕𝐚𝐥𝐞 & 𝐲𝐚𝐬𝐢𝐞𝐥';
+global.wm2 = `${dia} ${fecha}\n𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀`;
+global.gt = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
+global.mysticbot = '𝐒𝐊𝐀𝐑𝐂𝐈𝐓𝐀';
 global.channel = '';
 global.md = '';
 global.mysticbot = '';
